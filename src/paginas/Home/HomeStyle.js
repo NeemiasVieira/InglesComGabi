@@ -74,6 +74,56 @@ export const SecaoPrincipal = styled.section`
         margin-bottom: 3vh;
     }
 
+
+     @media screen and (max-width: 480px){
+        margin-left: 0;
+        margin-top: 12vh;
+
+        h1{
+        font-size: 1.6em;
+        }
+
+        h2{
+            font-size: .9em;
+            max-width: 85vw;
+            margin-bottom: 7.5vh;
+        }
+
+        img{
+            height: 200px;
+            width: 200px;
+            border-radius: 20px;
+        }
+
+        p{
+            font-size: .9em;
+            padding: 0 1vw;
+            margin-top: 2vh;
+        }
+
+        .introducao{
+            width: 100vw;
+            margin: 0 2vw;
+        }
+
+        .inicioIntroducao{
+            width: 100vw;
+        }
+
+        .beneficiosTitulo{
+            font-size: 1em;
+            max-width: 95vw;
+        }
+
+        .beneficios{
+            flex-flow: column wrap;
+        }
+
+        .beneficios p{
+            max-width: 95vw;
+        }
+
+    } 
  
 
 

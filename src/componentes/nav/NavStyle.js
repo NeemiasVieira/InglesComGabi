@@ -68,6 +68,58 @@ export const HeaderNav = styled.header`
         list-style: none;
     }
 
+
+    @media screen and (max-width: 480px){
+    height: 7vh;
+    width: 100vw;
+    font-size: .8em;
+    border-bottom: solid whitesmoke 3px;
+
+    nav{
+        flex-flow: row nowrap;
+        gap: 0;
+        padding-top: 0;
+    }
+
+    img{
+        width: 55px;
+        height: 55px;
+        border-radius: 30px;
+        margin-left: 20px;
+    }
+
+    ul{
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: flex-end;
+        gap: 1vw;
+        height: 7vh;
+        width: 100vw;
+        
+    }
+
+    ul li{
+        width: auto;
+        padding: 0 3vw;
+        border-left: none;
+        transition: none;
+        display: flex;
+        align-items: center;
+    }
+
+    ul li:hover, ul li:hover a{
+        background: #ff40aa;
+        color: whitesmoke;
+        font-size: 1em;
+    }
+
+    ul li:hover{
+        border-bottom: none;
+        border-top: none;
+        border-left: none;
+    }
+
+    }
     
 
     
