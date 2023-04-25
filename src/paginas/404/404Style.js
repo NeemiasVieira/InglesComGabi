@@ -58,11 +58,11 @@ export const Main404 = styled.section `
 
     @media screen and (max-width: 480px){
         h1, h2, span, a{
-            transform: scale(.9);
+            transform: scale(.8);
         }
 
         a:hover{
-            transform: scale(.9)
+            transform: scale(.8)
         }
 
     }

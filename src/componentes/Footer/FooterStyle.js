@@ -45,5 +45,15 @@ export const FooterWhite = styled.footer`
         gap: 40px;
     }
 
+    @media screen and (max-width: 480px){
+
+        a{
+            margin-top: 1vh;
+        }
+
+        p{
+            font-size: .9em;
+        }
+    }
     
 `

@@ -21,3 +21,4 @@ export function Router() {
 }
 
 
+// Para re-leitura: https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing
