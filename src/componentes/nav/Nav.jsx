@@ -9,9 +9,9 @@ export function Nav(){
                 <img src={logo} alt="Logo de Ingles Com Gabi" />
                 <ul>
                     <li><a href="./">Home</a></li>
-                    <li><a href="./sobre">Sobre</a></li>
-                    <li><a href="./plataforma">Plataforma</a></li>
-                    <li><a href="./contato">Contato</a></li>
+                    <li><a href="./#/sobre">Sobre</a></li>
+                    <li><a href="./#/plataforma">Plataforma</a></li>
+                    <li><a href="./#/contato">Contato</a></li>
                 </ul>                
             </nav>
         </HeaderNav>
