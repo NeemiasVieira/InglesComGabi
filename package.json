@@ -1,7 +1,7 @@
 {
   "name": "ingles-com-gabi",
   "version": "0.1.0",
-  "homepage": "https://neemiasvieira.github.io/InglesComGabi/",
+  "homepage": "https://neemiasvieira.github.io/InglesComGabi/*",
   "private": true,
   "dependencies": {
     "@fontsource/montserrat": "^4.5.14",
