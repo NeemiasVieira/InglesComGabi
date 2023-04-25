@@ -102,6 +102,7 @@ export const HeaderNav = styled.header`
         width: auto;
         padding: 0 3vw;
         border-left: none;
+        border-bottom: none;
         transition: none;
         display: flex;
         align-items: center;
