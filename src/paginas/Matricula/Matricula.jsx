@@ -13,8 +13,8 @@ const Matricula = () => {
                 <h1>Matricule-se</h1>
                 <h2>Não existe momento certo para começar seus estudos em outro idioma, aproveite nossos valores exclusivos.</h2>
                 <div className="BotoesPrincipais">
-                    <a href="/#/matricula/precos">Visualizar Valores</a>
-                    <a href="/#/matricula/inscricao">Realizar Matricula</a>
+                    <a href="./#/matricula/precos">Visualizar Valores</a>
+                    <a href="./#/matricula/inscricao">Realizar Matricula</a>
                 </div>
 
                 
