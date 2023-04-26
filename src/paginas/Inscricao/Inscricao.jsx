@@ -12,7 +12,7 @@ const Inscricao = () => {
             <SecaoInscricao>
                 <h1>Inscrição</h1>
                 <FormMatricula/>
-                <a href="/#/matricula">Voltar para matrícula</a>
+                <a href="./#/matricula">Voltar para matrícula</a>
             </SecaoInscricao>
             <Footer/>
         </BackGroundPink>
