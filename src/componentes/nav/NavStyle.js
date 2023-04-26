@@ -72,7 +72,7 @@ export const HeaderNav = styled.header`
     @media screen and (max-width: 480px){
     height: 7vh;
     width: 100vw;
-    font-size: .8em;
+    font-size: .75em;
     border-bottom: solid whitesmoke 3px;
 
     nav{
@@ -85,22 +85,23 @@ export const HeaderNav = styled.header`
         width: 55px;
         height: 55px;
         border-radius: 30px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
     ul{
         display: flex;
         flex-flow: row nowrap;
         justify-content: flex-end;
-        gap: 1vw;
+        gap: 0.5vw;
         height: 7vh;
         width: 100vw;
+        margin-right: 15px;
         
     }
 
     ul li{
         width: auto;
-        padding: 0 3vw;
+        padding: 0 2.5vw;
         border-left: none;
         border-bottom: none;
         transition: none;
