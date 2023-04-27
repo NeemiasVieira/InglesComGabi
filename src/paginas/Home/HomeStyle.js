@@ -10,7 +10,7 @@ export const BackGroundPink = styled.main`
 `
 export const SecaoPrincipal = styled.section`
     height: auto;
-    margin-left: 130px;
+    margin: 130px;
     color: whitesmoke;
     display: flex;
     flex-flow: column wrap;

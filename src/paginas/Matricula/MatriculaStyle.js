@@ -77,13 +77,6 @@ export const SecaoContato = styled.section`
         }
 
         a{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: whitesmoke;
-        text-decoration: none;
-        color: black;
-        font-weight: 900;
         width: 140px;
         height: 50px;
         border-radius: 10px;
