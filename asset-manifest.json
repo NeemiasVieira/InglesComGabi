@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/InglesComGabi/static/css/main.373a8977.css",
-    "main.js": "/InglesComGabi/static/js/main.d97f8a70.js",
+    "main.js": "/InglesComGabi/static/js/main.5be99cea.js",
     "static/js/787.213a1e71.chunk.js": "/InglesComGabi/static/js/787.213a1e71.chunk.js",
     "static/media/flexge3.png": "/InglesComGabi/static/media/flexge3.c325d28c2d12abc938d4.png",
     "static/media/englishBR.png": "/InglesComGabi/static/media/englishBR.94ba67f838591db11892.png",
@@ -17,11 +17,11 @@
     "static/media/montserrat-vietnamese-400-normal.woff2": "/InglesComGabi/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
     "index.html": "/InglesComGabi/index.html",
     "main.373a8977.css.map": "/InglesComGabi/static/css/main.373a8977.css.map",
-    "main.d97f8a70.js.map": "/InglesComGabi/static/js/main.d97f8a70.js.map",
+    "main.5be99cea.js.map": "/InglesComGabi/static/js/main.5be99cea.js.map",
     "787.213a1e71.chunk.js.map": "/InglesComGabi/static/js/787.213a1e71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.373a8977.css",
-    "static/js/main.d97f8a70.js"
+    "static/js/main.5be99cea.js"
   ]
 }
